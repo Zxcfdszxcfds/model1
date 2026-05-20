@@ -1,5 +1,5 @@
 streamlit
-spacy
-en-core-web-sm
-pandas
-pyvis
+opencv-python
+numpy
+matplotlib
+pillow
